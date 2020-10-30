@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**GeeAkpan/GeeAkpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <img  align="center" src="https://github.com/GeeAkpan/AkpanGodswill/blob/main/Quote%20with%20Illustrated%20Autumn%20Foliage%20Facebook%20Cover%20(1).png" alt="My Profile Header Image" width="100%" align="center" /> 
 
@@ -56,7 +51,9 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
     </a>
 </p>
 
+<hr>
 
+<p align="center">
 - 🔭 I’m currently working on ... My Vanilla Javascript WeatherApp
 - 🌱 I’m currently learning ... React/Redux, WordPress and UI/UX
 - 👯 I’m looking to collaborate on ... Google Developer Africa Community Project
@@ -65,4 +62,4 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 - 📫 How to reach me: ... Check socials section
 - 😄 Pronouns: ... Three things get you to the skies; Commitment, Consistency and Continuity
 - ⚡ Fun fact: ... Subtly in love with Machine Learning and an Unlimited Potentialist
--->
+</p>
