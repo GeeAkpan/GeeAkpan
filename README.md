@@ -53,7 +53,7 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 
 <hr>
 
-<p align="center">
+<p align="left">
 - 🔭 I’m currently working on ... My Vanilla Javascript WeatherApp
 - 🌱 I’m currently learning ... React/Redux, WordPress and UI/UX
 - 👯 I’m looking to collaborate on ... Google Developer Africa Community Project
