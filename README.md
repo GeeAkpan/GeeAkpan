@@ -55,11 +55,25 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 
 <p align="left">
 - 🔭 I’m currently working on ... My Vanilla Javascript WeatherApp
+</p>
+<p align="left">
 - 🌱 I’m currently learning ... React/Redux, WordPress and UI/UX
+</p>
+<p align="left">
 - 👯 I’m looking to collaborate on ... Google Developer Africa Community Project
+</p>
+<p align="left">
 - 🤔 I’m looking for help with ...  PHP and Data Management
+</p>
+<p align="left">
 - 💬 Ask me about ... Anything Basic Frontend to Intermediate FrontEnd Techs
+</p>
+<p align="left">
 - 📫 How to reach me: ... Check socials section
+</P>
+<p align="left">
 - 😄 Pronouns: ... Three things get you to the skies; Commitment, Consistency and Continuity
+</p>
+<p align="left">
 - ⚡ Fun fact: ... Subtly in love with Machine Learning and an Unlimited Potentialist
 </p>
