@@ -54,7 +54,7 @@ Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
 <hr>
 
 <p align="left">
-- 🔭 I’m currently working on ... My Vanilla Javascript WeatherApp
+- 🔭 I’m currently working on ... Blockchain Website
 </p>
 <p align="left">
 - 🌱 I’m currently learning ... React/Redux, WordPress and UI/UX
