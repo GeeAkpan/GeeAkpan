@@ -1,79 +1,55 @@
+Hi 👋 My name is Godswill Akpan
+===============================
 
-<img  align="center" src="https://github.com/GeeAkpan/AkpanGodswill/blob/main/Quote%20with%20Illustrated%20Autumn%20Foliage%20Facebook%20Cover%20(1).png" alt="My Profile Header Image" width="100%" align="center" /> 
+FrontEnd Web Developer | Community Manager | Social Media Manager | Solidity Developer
+--------------------------------------------------------------------------------------
 
-<hr>
-
-<p align="center">
-<h3>Digital Marketer | Front End Web Developer | Search Engine Optimization Engineer | Project Manager | Content Developer | Data Science Enthusiast</h3>
-</p>
-
-<hr>
-
-<h2 align="center">I can 😁:</h2>
-
-<p align="center">
-Use HTML, CSS and Javascrpt(ES%, ES6) for the frontend.
-Use Frameworks (Bootstrap, MaterializeCSS, W3CSS, JQuery) for fast development.
-</p>
-<p align="center">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" height="40"/> 
-    <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="40"/> 
-</p>
-
-- Use Git/GitHub for efficient code management, code contribution and to set up continuous integration and development (CI/CD)
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
-</p>
-
-
-<h2 align="center">Socials 🤝🏾</h2>
-
-<p align="center">
-    <a href="https://twitter.com/GeeAkpan" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="gee" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/godswill-akpan-a52171109/" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="geeakpan" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://www.facebook.com/akpan.godswill.3956/" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="gee" height="50" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/akpan_n_godswill/?hl=en" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="geeb" height="50" />
-    </a>
-</p>
-
-<hr>
-
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [godswillakp18@gmail.com](mailto:godswillakp18@gmail.com)
+*   🧠  I'm learning React Framework
+<br>
+<h3>Follow Me:</h3>
+<a href="https://www.twitter.com/geeakpan" target="_blank" rel="noreferrer">
+   <img src="https://img.shields.io/twitter/follow/geeakpan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/geeakpan" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/geeakpan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  <br>
+                  <h3>Skills:</h3>
 <p align="left">
-- 🔭 I’m currently working on ... Blockchain Website
-</p>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+                                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                                <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
+                                <a href="https://www.argent.xyz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/argent-colored.svg" width="36" height="36" alt="Argent" /></a>
+                                <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+                                <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+                                <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<h3>Socials:</h3>    
 <p align="left">
-- 🌱 I’m currently learning ... React/Redux, WordPress and UI/UX
+    <a href="https://www.behance.com/godswillakpan1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+    <a href="https://www.dribbble.com/GeeAkpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+    <a href="https://www.facebook.com/akpan.godswill.3956" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/geeakpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/godswill-akpan-a52171109/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="http://www.medium.com/@geeakpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+    <a href="https://www.stackoverflow.com/users/13959622/akpan-godswill?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+    <a href="https://www.twitter.com/geeakpan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="https://www.youtube.com/c/UCsevnMZg-4n4OxZpNUMjnRQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
-<p align="left">
-- 👯 I’m looking to collaborate on ... Google Developer Africa Community Project
-</p>
-<p align="left">
-- 🤔 I’m looking for help with ...  PHP and Data Management
-</p>
-<p align="left">
-- 💬 Ask me about ... Anything Basic Frontend to Intermediate FrontEnd Techs
-</p>
-<p align="left">
-- 📫 How to reach me: ... Check socials section
-</P>
-<p align="left">
-- 😄 Pronouns: ... Three things get you to the skies; Commitment, Consistency and Continuity
-</p>
-<p align="left">
-- ⚡ Fun fact: ... Subtly in love with Machine Learning and an Unlimited Potentialist
-</p>
+<h3>My GitHub Stats:</h3>   
+<a href="http://www.github.com/geeakpan"><img src="https://github-readme-stats.vercel.app/api?username=geeakpan&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="geeakpan's GitHub stats" /></a><br>
+<a href="https://github.com/geeakpan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeakpan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
+<h3>Support:</h3>
+<a href="https://www.buymeacoffee.com/geeakpan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> 
