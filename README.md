@@ -1,12 +1,12 @@
 Hi 👋 My name is Godswill Akpan
 ===============================
 
-FrontEnd Web Developer | Community Manager | Social Media Manager | Solidity Developer
+FrontEnd Web Developer | Growth Marketing Manager | Product Manager | Solidity Developer
 --------------------------------------------------------------------------------------
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [godswillakp18@gmail.com](mailto:godswillakp18@gmail.com)
-*   🧠  I'm learning React Framework
+*   🧠  Building dynamic applications with React
 <br>
 <h3>Follow Me:</h3>
 <a href="https://www.twitter.com/geeakpan" target="_blank" rel="noreferrer">
